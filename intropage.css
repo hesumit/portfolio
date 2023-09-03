@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.selector{
+    padding: 50px;
+    margin-top: 50px;
+    height: 100px;
+    width: 50%;
+    color: rgb(238, 246, 24);
+    text-align: start;
+    }
+    .sum{
+      display: flex;
+      
+     
+    }
+ .box1{
+    padding: 50px;
+    margin-top: 50px;
+    height: 100px;
+    width: 50%;
+    background-image: url(coder.jpg);
+    background-size: cover;
+       }
+       .line{
+         margin-top: 10px;
+         margin-bottom: 20px;
+         height: 2px;
+         width: 100%;
+         background-color: aliceblue;
+       }
+       .hero{
+         display: flex;
+         width: 100%;
+         align-items: center;
+         justify-content: center;
+       }
+       .decuration{
+         width: 50%;
+       }
+.navbar{
+        display: flex;
+        text-align: center;
+       }
+button{
+        color: black;
+        background-color: yellow;
+        border: 3px solid white;
+    margin-top: 8px;
+    text-align: center;
+    }
+.decuration{
+        color: rgb(238, 246, 24);
+        height: 170px;
+        width: 200px;
+        margin-top: 15px;
+        border:2px solid white;
+         }
+         .decuration1{
+            color: rgb(238, 246, 24);
+            height: 170px;
+            width: 200px;
+            margin-top: 15px;
+            border:2px solid white;
+             }
+             .decuration2{
+                color: rgb(238, 246, 24);
+                height: 170px;
+                width: 200px;
+                margin-top: 15px;
+                border:2px solid white;
+                 }
+                 .decuration3{
+                    color: rgb(238, 246, 24);
+                    height: 170px;
+                    width: 200px;
+                    margin-top: 15px;
+                    border:2px solid white;
+                    
+                     }
+    
